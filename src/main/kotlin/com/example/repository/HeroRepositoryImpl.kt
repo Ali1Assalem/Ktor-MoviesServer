@@ -3,6 +3,10 @@ package com.example.repository
 import com.example.models.ApiResponse
 import com.example.models.Hero
 
+/*
+ @auther Ali Assalem
+     8/24/2022
+*/
 const val NEXT_PAGE_KEY = "nextPage"
 const val PREVIOUS_PAGE_KEY = "prevPage"
 

@@ -3,6 +3,10 @@ package com.example.repository
 import com.example.models.ApiResponse
 import com.example.models.Hero
 
+/*
+ @auther Ali Assalem
+     8/24/2022
+*/
 interface HeroRepository {
 
     val heroes: Map<Int, List<Hero>>
